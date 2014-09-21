@@ -1,0 +1,17 @@
+{
+    "version": "1.0",
+    "name": "IPV4 Facil",
+    "description": "Aplicativo para calcular o número de sub-redes, nós, bits de rede, bits de máscara e máscara.",
+    "launch_path": "/Entrada.html",
+    "icons": {
+        "16": "/Imagens/icons/icon16.png",
+        "48": "/Imagens/icons/icon48.png",
+        "128": "/Imagens/icons/icon128.png"
+    },
+   "developer": {
+	"name": "Aplicativos Sigma",
+	}
+    "installs_allowed_from": ["*"],
+    
+    "default_locale": "pt"
+}
